@@ -5,6 +5,6 @@ def meal_choice(choice = "meat")
   return choice
 end
 
-printf meal_choice
+printf meal_choice./n
 
 printf meal_choice("vegan")
