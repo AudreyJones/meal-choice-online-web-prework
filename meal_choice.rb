@@ -5,6 +5,6 @@ def meal_choice(choice = "meat")
   return choice
 end
 
-print meal_choice
+printf meal_choice
 
-meal_choice("vegan")
+printf meal_choice("vegan")
